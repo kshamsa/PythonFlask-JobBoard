@@ -3,8 +3,9 @@
     "",
     "\\db",
     "\\jobs",
+    "\\jobs\\templates",
     "\\tests"
   ],
-  "SelectedNode": "\\jobs\\app.py",
+  "SelectedNode": "\\jobs\\templates\\index.html",
   "PreviewInSolutionExplorer": false
 }
